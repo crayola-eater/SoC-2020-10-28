@@ -1,0 +1,9 @@
+.post {
+  border: 10px solid fuchsia;
+  width: 50vw;
+}
+
+.post-image {
+  width: 100%;
+  height: auto;
+}
